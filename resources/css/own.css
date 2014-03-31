@@ -1,0 +1,28 @@
+.container {
+	
+	margin: 0 auto;
+	text-align:center; 
+	}
+	.container #myCanvas{
+		
+		margin: 0 auto;
+	text-align:center; 
+
+	}
+.x-html h1 {	
+	font-size: 2em;
+}
+.x-unsized.x-button-normal.x-button.btnAction {
+	background: url(../../images/start.png) !important;
+	width: 64px;
+	height: 64px;
+	margin:auto;
+	border: none;
+}
+.x-unsized.x-button-normal.x-button.btnAction1 {
+	background: url(../../images/start1.png) !important;
+	width: 64px;
+	height: 64px;
+	margin:auto;
+	border: none;
+	}

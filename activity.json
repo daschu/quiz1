@@ -1,0 +1,23 @@
+{"quizlist":[
+  
+	{
+	"question":"Was bedeutet BDSG?",
+	"option1":"Bundesdatenschutzgesetz",
+	"option2":"Bundesdienstleistungsdauergesetz",
+	"option3":"Bildungsdatenschulgestz"
+	},
+	{
+	"question":"Welche Daten werden durch das Bundesdatenschutzgesetz geschützt?",
+	"option1":"Daten von Privatpersonen",
+	"option2":"alle Daten",
+	"option3":"Daten von Firmen"
+	},
+	{
+	"question":"Which country is long and thin?",
+	"option1":"Chile",
+	"option2":"Uruguay",
+	"option3":"Colombia"
+	}
+
+]
+}

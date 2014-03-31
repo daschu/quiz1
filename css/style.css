@@ -1,0 +1,14 @@
+ body {
+            	background-image:url('../images/BG.png')
+		  }
+
+		  #ccontainer{
+		  width:90%;
+
+		  margin: 0 auto;
+		  margin-top:0px;
+		  }
+
+		  #myCanvas {
+		//background:#FFFFFF;
+            }
